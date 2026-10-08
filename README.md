@@ -3,7 +3,7 @@
 `/login` - Completely working
 `/meters` — working but not returning any data
 `/meters/filter-meters` — should work, untested after the 500 fix
-`/transformers` — model/controller written, but you hit rate_limited before confirming it runs end-to-end
+`/transformers` — model/controller written, but hit rate_limited before confirming it runs end-to-end
 
 ## How to run
 
