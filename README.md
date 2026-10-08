@@ -54,4 +54,4 @@ GET `/login`
 
 [PROTOCOL.md](https://github.com/rajeshCreate72/flock-energy-assignment/blob/main/PROTOCOL.md)
 
-## [openapi.json]()
+## [openapi.json](https://github.com/rajeshCreate72/flock-energy-assignment/blob/main/openapi.json)
