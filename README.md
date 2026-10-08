@@ -7,8 +7,6 @@
 
 ## How to run
 
-To run the project
-
 ```
 npm install
 ```
@@ -19,6 +17,10 @@ Add `.env` file at the source folder, Add below env variables
 PORTAL_EMAIL=<Provided in the document>
 PORTAL_PASSWORD=<Provided in the document>
 BASE_URL=<From the api in dashboard>
+```
+To run the project
+```
+npm run dev
 ```
 
 ## Sample request
